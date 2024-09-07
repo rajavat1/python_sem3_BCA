@@ -10,6 +10,7 @@ def criteria():
     global TOTAL_WEIGHTAGE  # Declare TOTAL_WEIGHTAGE as global
     
     # Criteria Details
+    
     while condition:
         
         # Teacher's Details
